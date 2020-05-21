@@ -1,0 +1,5 @@
+## upstream
+ngx_module_type=HTTP
+ngx_module_srcs=$ngx_addon_dir/starter.c
+ngx_module_name=ngx_http_starter_module
+. auto/module
